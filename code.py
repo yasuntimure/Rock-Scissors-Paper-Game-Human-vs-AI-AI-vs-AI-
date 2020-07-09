@@ -1,5 +1,4 @@
-'''Esra GENECİ 041502020
-Eyüp YASUNTİMUR 041502026
+
 Rock Paper Scissors Game. 20.11.2019'''
 
 from random import randint
