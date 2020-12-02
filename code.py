@@ -1,5 +1,5 @@
 
-Rock Paper Scissors Game. 20.11.2019'''
+#Rock Paper Scissors Game. 20.11.2019
 
 from random import randint
 
